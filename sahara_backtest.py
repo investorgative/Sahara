@@ -26,7 +26,7 @@ OPT_PROGRESS = os.path.join(core.DATA_DIR, "optimizer_progress.json")
 OPT_RESULT = os.path.join(core.DATA_DIR, "optimizer_result.json")
 OPT_STOP = os.path.join(core.DATA_DIR, "optimizer_stop")
 BT_RESULT = os.path.join(core.DATA_DIR, "backtest_result.json")
-MAX_CHART_BARS = 6000
+MAX_CHART_BARS = 20000
 
 
 # ---------------------------------------------------------------- data
